@@ -1,0 +1,1 @@
+execute as @p at @s if entity @e[type=#gd_main:companion_can_attack,distance=..16,tag=!companion] as @e[type=#gd_main:companion,tag=naga,limit=1,sort=nearest] run function gd_companion:select/type/naga_witch/attack

@@ -1,0 +1,47 @@
+{
+	"anvil_cost": 4,
+	"description": {
+		"translate": "enchantment.minecraft.experience_boost",
+		"fallback": "Experience Boost"
+	  },
+	  "effects": {
+	  "minecraft:mob_experience": [
+		{
+		  "effect": {
+			"type": "minecraft:multiply",
+			"factor": {
+			  "type": "minecraft:linear",
+			  "base": 1.5,
+			  "per_level_above_first": 0.75
+			}
+		  }
+		}
+	  ],
+	  "minecraft:block_experience": [
+		{
+		  "effect": {
+			"type": "minecraft:multiply",
+			"factor": {
+			  "type": "minecraft:linear",
+			  "base": 1.5,
+			  "per_level_above_first": 0.75
+			}
+		  }
+		}
+	  ]
+	},
+	"max_cost": {
+	  "base": 10,
+	  "per_level_above_first": 10
+	},
+	"max_level": 3,
+	"min_cost": {
+	  "base": 25,
+	  "per_level_above_first": 10
+	},
+	"slots": [
+	  "mainhand"
+	],
+	"supported_items": "#gd_main:weapon_melee_range",
+	"weight": 1
+  }

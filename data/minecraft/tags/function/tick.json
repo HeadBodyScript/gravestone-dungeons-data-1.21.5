@@ -1,6 +1,7 @@
 {
 	"values": [
 	"gd_main:exe",
-	"gd_companion:exe"
+	"gd_companion:exe",
+	"gd_enchantment:exe"
 	]
 }

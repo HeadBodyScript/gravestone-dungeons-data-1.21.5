@@ -1,0 +1,33 @@
+{
+	"description": {
+		"translate": "enchantment.minecraft.levitation",
+		"fallback": "Levitation"
+	  },
+	"supported_items": "minecraft:shield",
+	"slots": [
+	  "hand",
+	  "chest"
+	],
+	"weight": 1,
+	"anvil_cost": 8,
+	"min_cost": {
+	  "base": 10,
+	  "per_level_above_first": 10
+	},
+  "exclusive_set": "#minecraft:exclusive_set/gd_shield",
+	"max_cost": {
+	  "base": 25,
+	  "per_level_above_first": 10
+	},
+	"max_level": 1,
+	"effects": {
+	  "minecraft:tick": [
+		{
+		  "effect": {
+			"type": "minecraft:run_function",
+			"function": "gd_enchantment:levitation/tick"
+		  }
+		}
+	  ]
+	}
+  }

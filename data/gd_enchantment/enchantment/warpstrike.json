@@ -1,0 +1,32 @@
+{
+	"description": {
+		"translate": "enchantment.minecraft.warpstrike",
+		"fallback": "Warpstrike"
+	  },
+	"supported_items": "#minecraft:enchantable/trident",
+	"slots": [
+	  "mainhand"
+	],
+	"weight": 1,
+	"anvil_cost": 8,
+	"min_cost": {
+	  "base": 10,
+	  "per_level_above_first": 10
+	},
+  "exclusive_set": "#minecraft:exclusive_set/gd_trident",
+	"max_cost": {
+	  "base": 25,
+	  "per_level_above_first": 10
+	},
+	"max_level": 1,
+	"effects": {
+	  "minecraft:hit_block": [
+		{
+		  "effect": {
+			"type": "minecraft:run_function",
+			"function": "gd_enchantment:warpstrike/init"
+		  }
+		}
+	  ]
+	}
+  }

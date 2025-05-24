@@ -1,0 +1,1 @@
+function gd_companion:select/type/sparking_spider/attack

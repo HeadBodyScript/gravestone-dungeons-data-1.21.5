@@ -1,0 +1,1 @@
+execute as @p at @s if entity @e[type=#gd_main:companion_can_attack,distance=..12,tag=!companion] as @e[type=#gd_main:companion,tag=frostguard,limit=1,sort=nearest] run function gd_companion:select/type/frost_golem/attack
