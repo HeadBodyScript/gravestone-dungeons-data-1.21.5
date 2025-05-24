@@ -26,10 +26,7 @@
           "block_state": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:basalt",
-              "Properties": {
-                "age": "0"
-              }
+              "Name": "minecraft:basalt"
             }
           },
           "height": 1.0,

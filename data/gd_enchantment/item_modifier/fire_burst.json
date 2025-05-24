@@ -27,6 +27,10 @@
   },
   {
     "function": "minecraft:set_custom_data",
-    "tag": "{modified:1b,enchantment:1b}"
+        "tag": {
+      "modified": true,
+      "enchantment": true,
+      "gd_enchantment": "fire_burst"
+    }
   }
 ]

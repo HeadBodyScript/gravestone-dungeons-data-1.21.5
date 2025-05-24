@@ -33,3 +33,4 @@ scoreboard players remove @s INT 1
 execute unless entity @e[type=#gd_main:companion_can_attack,distance=..12] run kill @e[tag=fireblock]
 execute unless entity @e[type=#gd_main:companion_can_attack,distance=..12] run kill @e[tag=iceblock]
 execute unless entity @e[type=#gd_main:companion_can_attack,distance=..12] run kill @e[tag=poisonblock]
+say hi

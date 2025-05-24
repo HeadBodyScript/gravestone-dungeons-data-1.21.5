@@ -58,7 +58,7 @@
     ],
     "minecraft:attributes": [
       {
-        "attribute": "minecraft:player.sweeping_damage_ratio",
+        "attribute": "minecraft:sweeping_damage_ratio",
         "id": "minecraft:enchantment.sweeping_edge",
         "amount": {
           "type": "minecraft:fraction",

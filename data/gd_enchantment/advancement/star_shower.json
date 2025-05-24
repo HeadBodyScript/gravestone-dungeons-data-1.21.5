@@ -8,8 +8,12 @@
             "minecraft:food": {
               "nutrition": 0,
               "saturation": 0,
-              "can_always_eat": true,
-              "eat_seconds": 100008
+              "can_always_eat": true
+            }
+          },
+          "predicates": {
+            "minecraft:custom_data": {
+              "gd_enchantment": "star_shower"
             }
           }
         }

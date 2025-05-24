@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+	"gd_enchantment:lightning_rod",
+	"gd_enchantment:tongue_of_fire",
+	"gd_enchantment:blackthorn_arrow",
+	"gd_enchantment:chorus_void",
+	"gd_enchantment:frostbite",
+	"gd_enchantment:floating"
+
+  ]
+}
