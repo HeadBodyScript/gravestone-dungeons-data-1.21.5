@@ -1,0 +1,9 @@
+[
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "gd_companion:charges": 2
+      },
+      "add": false
+    }
+  ]

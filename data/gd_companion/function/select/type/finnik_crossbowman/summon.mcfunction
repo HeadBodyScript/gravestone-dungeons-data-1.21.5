@@ -1,0 +1,6 @@
+data merge entity @s {Team:"DIREWOOD",PersistenceRequired:1b,Health:70f,Tags:["companion"],CustomName:{"color":"#C9A338","italic":false,"text":"Finnik"},HandItems:[{id:"minecraft:crossbow",count:1,components:{"minecraft:max_damage":1000,"minecraft:custom_model_data":1,"minecraft:enchantments":{levels:{"minecraft:quick_charge":5,"minecraft:piercing":2,"gd_enchantment:poisoning":1}},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[0.000F,0.085F],attributes:[{id:"minecraft:armor",base:12},{id:"minecraft:max_health",base:70}]}
+scoreboard players operation @s entity.modifier.companion.duration = @e[type=minecraft:area_effect_cloud,limit=1,sort=nearest] entity.modifier.companion.duration
+scoreboard players operation @s UUID = @e[type=minecraft:area_effect_cloud,limit=1,sort=nearest] UUID
+scoreboard players operation @s user.companion.INT.perk = @e[type=minecraft:area_effect_cloud,limit=1,sort=nearest] user.companion.INT.perk
+execute at @s as @e[tag=companion] if score @s UUID = @e[limit=1,sort=nearest] UUID run scoreboard players add @s INT 1
+execute if score @s INT < @s user.companion.INT.perk at @s as @a if score @s UUID = @e[limit=1,sort=nearest] UUID at @s as @e[tag=companion] if score @s INT > @s user.companion.INT.perk run kill @s

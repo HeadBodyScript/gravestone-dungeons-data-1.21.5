@@ -1,0 +1,2 @@
+execute summon area_effect_cloud run function gd_companion:select/type/fiery_bow/summon_area_effect_cloud
+function gd_companion:select/clear

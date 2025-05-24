@@ -1,0 +1,2 @@
+execute summon area_effect_cloud run function gd_companion:select/type/dire_bear/summon_area_effect_cloud
+function gd_companion:select/clear
