@@ -17,14 +17,14 @@
 	  "base": 25,
 	  "per_level_above_first": 10
 	},
-  "exclusive_set": "#minecraft:exclusive_set/gd_right_click",
+  "exclusive_set": "#gd_enchantment:exclusive_set/gd_right_click",
 	"max_level": 1,
 	"effects": {
 	  "minecraft:tick": [
 		{
 		  "effect": {
 			"type": "minecraft:run_function",
-			"function": "gd_enchantment:light_wave/stat"
+			"function": "gd_enchantment:light_wave/exe"
 		  }
 		}
 	  ]

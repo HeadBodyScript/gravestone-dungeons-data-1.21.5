@@ -1,6 +1,6 @@
 playsound minecraft:entity.player.attack.weak master @s ~1 ~ ~ 10 .5
 particle minecraft:sweep_attack ^ ^1.2 ^.5
-scoreboard players set @s enchantment.cultivation_CD 17
+scoreboard players set @s enchantment.cultivation.cooldown 17
 
 playsound minecraft:entity.player.attack.weak master @s ~ ~ ~ 10 1
 

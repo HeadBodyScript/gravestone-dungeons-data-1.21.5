@@ -8,7 +8,7 @@ particle minecraft:poof ~ ~4 ~ .1 .1 .1 .01 1
 particle minecraft:wax_off ~ ~4 ~ .2 .2 .2 .01 1
 particle minecraft:small_gust ~ ~4 ~ .2 .2 .2 .01 2
 
-scoreboard players add @e[type=#gd_main:entity,tag=!companion,tag=!boss,distance=..8,limit=1,sort=random] enchantment.frostbite_VFX 0
+scoreboard players add @e[type=#gd_main:entity,tag=!companion,tag=!boss,distance=..8,limit=1,sort=random] enchantment.frostbite.animation 0
 
 execute if score @s tick1 matches 100.. run kill @s
 

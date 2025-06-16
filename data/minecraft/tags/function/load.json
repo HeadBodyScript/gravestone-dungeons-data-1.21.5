@@ -1,6 +1,5 @@
 {
 	"values": [
-	"gd_main:init",
-	"gd_companion:init"
+	"gd_main:init"
 	]
 }

@@ -1,0 +1,403 @@
+{
+  "name": "gd_structure:fair",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair3",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair4",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair5",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair6",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair7",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair8",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair9",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair10",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair11",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair12",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair13",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair14",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair15",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair16",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair17",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair18",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair19",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair20",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair21",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair22",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair23",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/fair24",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/bodb",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/bodb1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/bodb2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/edward",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/edward1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/edward2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/otis",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/otis1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/otis2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/peter",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/peter1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/peter2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/merchant1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/merchant2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/merchant3",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/merchant4",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/annie",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/annie1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/annie2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/arthur",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/arthur1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/arthur2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/elana",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/elana1",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:fair/elana2",
+        "projection": "rigid",
+        "processors": "gd_structure:fair"
+      }
+    }
+
+
+
+
+  ]
+}

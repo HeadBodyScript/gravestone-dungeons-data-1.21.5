@@ -13,7 +13,7 @@
 	  "base": 10,
 	  "per_level_above_first": 10
 	},
-  "exclusive_set": "#minecraft:exclusive_set/gd_right_click",
+  "exclusive_set": "#gd_enchantment:exclusive_set/gd_right_click",
 	"max_cost": {
 	  "base": 25,
 	  "per_level_above_first": 10
@@ -24,7 +24,7 @@
 		{
 		  "effect": {
 			"type": "minecraft:run_function",
-			"function": "gd_enchantment:evoker_fangs/stat"
+			"function": "gd_enchantment:evoker_fangs/exe"
 		  }
 		}
 	  ]

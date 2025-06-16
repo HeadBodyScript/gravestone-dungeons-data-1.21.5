@@ -1,0 +1,220 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Potion Bag Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Chest Armor\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Makes various potions stackable,\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"when in the inventory.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:potion_bag": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Quiver Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Chest Armor\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Makes various Arrows higher\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"stackable, when in the inventory.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:quiver": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Experience Boost Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Tools/ Weapons\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Boosts experience gain.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:experience_boost": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Illumination Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Weapons\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Provides illumination of entities,\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"and blesses undead ones.\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Magicka Cost: 1000/usage\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:illumination": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Adrenaline Boost Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Armor\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Provides a strong speed and jump\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"boost, once fully charged up.\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Activated by crouching.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:adrenaline_boost": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Veil of Shadows Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Foot Armor\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Hides the wearer from mobs if\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"you don\'t get too close.\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Activated by crouching.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:veil_of_shadows": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Warpstrike Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Tridents\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Teleports the owner to the\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"landing place when thrown.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:warpstrike": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Telekinesis Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Tools\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Provides an item magnet in a\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"small radius, when activated.\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Magicka Cost: 200/usage\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:telekinesis": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Cultivation Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Hoes\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"Provides automatic planting and\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"harvesting of various crops.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:cultivation": 1
+                }
+              }
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "weight": 1,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_name": "{\"color\":\"#88FF00\",\"italic\":true,\"text\":\"Molten Touch Enchantment\"}",
+                "minecraft:lore": [
+                  "{\"color\":\"gray\",\"italic\":false,\"text\":\"Used on: Pickaxes/ Axes\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"When mined, ores and logs\"}","{\"color\":\"gray\",\"italic\":false,\"text\":\"are immediately smelted.\"}"
+                ],
+                "minecraft:rarity": "common",
+                "minecraft:custom_model_data": 7,
+                "minecraft:stored_enchantments": {
+                  "gd_enchantment:molten_touch": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

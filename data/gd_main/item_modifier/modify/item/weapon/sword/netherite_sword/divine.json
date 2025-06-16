@@ -1,0 +1,57 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Divine",
+        "color": "#99ffff",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "25b81403-74a9-45a5-9a88-ef745df1abe4",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.025,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "25b81403-74a9-45a5-9a88-ef745df1abe4",
+        "attribute": "minecraft:generic.attack_damage",
+        "amount": 14,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "25b81403-74a9-45a5-9a88-ef745df1abe4",
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": -2.4,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "25b81403-74a9-45a5-9a88-ef745df1abe4",
+        "attribute": "minecraft:player.sweeping_damage_ratio",
+        "amount": 0.75,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "25b81403-74a9-45a5-9a88-ef745df1abe4",
+        "attribute": "minecraft:player.sneaking_speed",
+        "amount": 0.25,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

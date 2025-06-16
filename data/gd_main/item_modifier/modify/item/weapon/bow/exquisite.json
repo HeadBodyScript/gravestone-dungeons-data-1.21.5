@@ -1,0 +1,51 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Exquisite",
+        "color": "gold",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "3ac849c7-8500-41e9-9339-c54a01902d6f",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.015,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "3ac849c7-8500-41e9-9339-c54a01902d6f",
+        "attribute": "minecraft:generic.armor",
+        "amount": 0.25,
+        "operation": "add_multiplied_base",
+        "slot": "mainhand"
+      },
+      {
+        "id": "3ac849c7-8500-41e9-9339-c54a01902d6f",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "3ac849c7-8500-41e9-9339-c54a01902d6f",
+        "attribute": "minecraft:generic.step_height",
+        "amount": 1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

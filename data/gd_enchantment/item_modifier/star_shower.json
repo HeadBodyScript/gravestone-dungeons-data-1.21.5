@@ -2,13 +2,13 @@
   {
     "function": "minecraft:set_components",
     "components": {
-      "minecraft:food": {
-        "nutrition": 0,
-        "saturation": 0,
-        "can_always_eat": true
+      "minecraft:consumable": {
+        "consume_seconds": 1024,
+        "animation": "none"
       }
     }
-  },{
+  },
+  {
     "function": "minecraft:set_lore",
     "lore": [
       {
@@ -38,7 +38,7 @@
     "function": "minecraft:set_custom_data",
         "tag": {
       "modified": true,
-      "enchantment": true,
+      "enchantment_active": true,
       "gd_enchantment": "star_shower"
     }
   }

@@ -1,0 +1,27 @@
+{
+  
+  "structures": [
+    {
+      "structure": "gd_structure:church",
+      "weight": 2
+    },{
+      "structure": "gd_structure:m_caves",
+      "weight": 2
+    },{
+      "structure": "gd_structure:direwood",
+      "weight": 1
+    },{
+      "structure": "gd_structure:netherrock",
+      "weight": 1
+    },{
+      "structure": "gd_structure:catacombs",
+      "weight": 2
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 90,
+    "separation": 60,
+    "salt": 316458144
+  }
+}

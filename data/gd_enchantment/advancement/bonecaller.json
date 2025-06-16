@@ -4,13 +4,6 @@
       "trigger": "minecraft:using_item",
       "conditions": {
         "item": {
-          "components": {
-            "minecraft:food": {
-              "nutrition": 0,
-              "saturation": 0,
-              "can_always_eat": true
-            }
-          },
           "predicates": {
             "minecraft:custom_data": {
               "gd_enchantment": "bonecaller"
@@ -21,6 +14,6 @@
     }
   },
   "rewards": {
-    "function": "gd_enchantment:bonecaller/click"
+    "function": "gd_enchantment:bonecaller/advancement"
   }
 }

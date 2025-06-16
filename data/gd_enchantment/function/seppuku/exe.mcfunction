@@ -1,0 +1,2 @@
+execute unless entity @s[nbt={SelectedItem:{components:{"minecraft:custom_data":{enchantment_active:true}}}}] run item modify entity @s weapon.mainhand gd_enchantment:seppuku
+function gd_enchantment:mana

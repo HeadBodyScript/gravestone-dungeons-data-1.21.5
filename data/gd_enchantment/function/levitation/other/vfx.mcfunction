@@ -1,1 +1,0 @@
-particle minecraft:poof ~ ~-0.2 ~ .1 .5 .1 0.01 1

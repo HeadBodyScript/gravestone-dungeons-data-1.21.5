@@ -1,0 +1,44 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Exceptional",
+        "color": "#9900ff",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "a2b4b918-310d-4efa-b434-bb6fc24595a4",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.01,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "a2b4b918-310d-4efa-b434-bb6fc24595a4",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.5,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "a2b4b918-310d-4efa-b434-bb6fc24595a4",
+        "attribute": "minecraft:generic.step_height",
+        "amount": 1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

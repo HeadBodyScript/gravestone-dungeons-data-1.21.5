@@ -14,7 +14,7 @@
 	  "base": 10,
 	  "per_level_above_first": 10
 	},
-  "exclusive_set": "#minecraft:exclusive_set/gd_boots",
+  "exclusive_set": "#gd_enchantment:exclusive_set/gd_boots",
 	"max_cost": {
 	  "base": 25,
 	  "per_level_above_first": 10
@@ -25,7 +25,7 @@
 		{
 		  "effect": {
 			"type": "minecraft:run_function",
-			"function": "gd_enchantment:veil_of_shadows/tick"
+			"function": "gd_enchantment:veil_of_shadows/exe"
 		  }
 		}
 	  ]

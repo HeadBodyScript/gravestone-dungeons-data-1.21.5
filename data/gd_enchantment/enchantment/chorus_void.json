@@ -13,7 +13,7 @@
 	  "base": 10,
 	  "per_level_above_first": 10
 	},
-  "exclusive_set": "#minecraft:exclusive_set/gd_bow",
+  "exclusive_set": "#gd_enchantment:exclusive_set/gd_bow",
 	"max_level": 1,
 	"min_cost": {
 	  "base": 25,
@@ -24,7 +24,7 @@
 		{
 		  "effect": {
 			"type": "minecraft:run_function",
-			"function": "gd_enchantment:chorus_void/init"
+			"function": "gd_enchantment:chorus_void/projectile_spawned"
 		  }
 	     }
 	  ],
@@ -32,7 +32,7 @@
 		{
 		  "effect": {
 			"type": "minecraft:run_function",
-			"function": "gd_enchantment:chorus_void/tick"
+			"function": "gd_enchantment:chorus_void/exe"
 		  },
 			"requirements": {
 				"condition": "entity_properties",

@@ -1,2 +1,2 @@
 scoreboard players reset @s enchantment.knife_pouch_recharge
-scoreboard players add @s enchantment.knife_pouch_INT 1
+scoreboard players add @s enchantment.knife_pouch.count 1

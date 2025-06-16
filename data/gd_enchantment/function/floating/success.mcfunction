@@ -6,4 +6,4 @@ playsound minecraft:entity.breeze.inhale master @a ~ ~ ~ 20 .5 1
 playsound minecraft:entity.player.attack.knockback master @a ~ ~ ~ 20 .5 1
 effect give @s minecraft:levitation 8 3 false
 effect give @s minecraft:slowness 8 2 true
-scoreboard players reset @s enchantment.floating_INT
+scoreboard players reset @s enchantment.floating.count

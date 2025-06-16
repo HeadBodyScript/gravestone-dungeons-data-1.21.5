@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "arbalistic": {
+      "conditions": {},
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [],
+  "rewards": {
+    "function": "gd_boss:advancement/on_summon/witches_1"
+  },
+  "sends_telemetry_event": false
+}

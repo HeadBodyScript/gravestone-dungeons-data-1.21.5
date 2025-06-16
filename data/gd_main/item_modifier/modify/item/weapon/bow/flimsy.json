@@ -1,0 +1,37 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Flimsy",
+        "color": "#669900",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "f93ea3ea-e687-435e-93a8-8b8199d51f96",
+        "attribute": "minecraft:generic.armor",
+        "amount": 0.1,
+        "operation": "add_multiplied_base",
+        "slot": "mainhand"
+      },
+      {
+        "id": "f93ea3ea-e687-435e-93a8-8b8199d51f96",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

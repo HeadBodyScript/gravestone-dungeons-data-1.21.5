@@ -1,0 +1,72 @@
+{
+  "values": [
+#caves cold
+
+#caves temperate
+
+#caves tropical
+
+#caves arid
+
+#caves hot
+
+#water
+
+#cold
+
+#cold special
+
+#temperate
+
+#temperate special
+
+#tropical
+
+#tropical special
+
+#arid
+
+#arid special
+    {
+      "id": "terralith:ashen_savanna",
+      "required": false
+    },
+    {
+      "id": "terralith:savanna_slopes",
+      "required": false
+    },
+    {
+      "id": "terralith:yellowstone",
+      "required": false
+    },
+
+#hot
+	"minecraft:desert",
+    {
+      "id": "terralith:ancient_sands",
+      "required": false
+    },
+    {
+      "id": "terralith:bryce_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:desert_canyon",
+      "required": false
+    },
+    {
+      "id": "terralith:lush_desert",
+      "required": false
+    },
+
+#hot special
+    {
+      "id": "terralith:desert_oasis",
+      "required": false
+    },
+    {
+      "id": "terralith:sandstone_valley",
+      "required": false
+    }
+  ]
+}

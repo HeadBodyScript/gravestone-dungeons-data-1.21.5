@@ -1,0 +1,1 @@
+execute as @s[nbt={inGround:1b}] run function gd_arrow:arrow/weaving/init

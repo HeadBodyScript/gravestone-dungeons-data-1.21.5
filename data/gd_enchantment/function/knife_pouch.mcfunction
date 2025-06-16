@@ -1,1 +1,1 @@
-title @s actionbar ["",{"score":{"name":"@s","objective":"enchantment.knife_pouch_INT"}},{"text":" / "},{"score":{"name":"@s","objective":"enchantment.knife_pouch_MAX"}}]
+title @s actionbar ["",{"score":{"name":"@s","objective":"enchantment.knife_pouch.count"}},{"text":" / "},{"score":{"name":"@s","objective":"enchantment.knife_pouch_MAX"}}]

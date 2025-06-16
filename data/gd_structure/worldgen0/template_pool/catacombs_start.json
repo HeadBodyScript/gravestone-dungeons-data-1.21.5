@@ -1,0 +1,15 @@
+{
+  "name": "gd_structure:catacombs_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/catacombs_11",
+        "projection": "rigid",
+        "processors": "gd_structure:catacombs"
+      }
+    }
+  ]
+}

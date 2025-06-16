@@ -1,0 +1,2 @@
+advancement revoke @s only gd_enchantment:deflect_projectiles
+execute if score @s mana matches 4000.. unless score @s enchantment.deflect.cooldown matches 0.. run function gd_enchantment:deflect_projectiles/success

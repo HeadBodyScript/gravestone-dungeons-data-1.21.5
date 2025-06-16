@@ -1,0 +1,2 @@
+advancement revoke @s only gd_enchantment:lightning_strike
+execute if score @s mana matches 3000.. unless score @s enchantment.lightning_strike.cooldown matches 0.. if predicate gd_main:sky_visible run function gd_enchantment:lightning_strike/success

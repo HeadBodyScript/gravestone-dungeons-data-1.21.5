@@ -1,1 +1,0 @@
-particle minecraft:infested ~ ~0.1 ~ .1 1 .1 0.01 1

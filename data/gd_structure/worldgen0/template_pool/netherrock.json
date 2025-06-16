@@ -1,0 +1,336 @@
+{
+  "name": "gd_structure:netherrock",
+  "fallback": "gd_structure:netherrock",
+  "elements": [
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_1",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_2",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_3",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_4",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_5",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_6",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_7",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_8",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_9",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_10",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_11",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_12",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_13",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_14",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_15",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_16",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_17",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_18",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_19",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_20",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_add1",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_add2",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/netherrock_add3",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest1",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest2",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest3",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest4",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest5",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest6",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest7",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest8",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest9",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest10",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest11",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest12",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest13",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest14",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest15",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/chest16",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    },{
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:netherrock/spawner",
+        "projection": "rigid",
+        "processors": "gd_structure:netherrock"
+      }
+    }
+
+
+
+
+
+
+
+
+
+  ]
+}

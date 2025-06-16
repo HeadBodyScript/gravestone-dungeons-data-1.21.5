@@ -1,0 +1,51 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Divine",
+        "color": "#99ffff",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "e1ab8c37-7f10-44dc-95b1-12d64b97f911",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.025,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "e1ab8c37-7f10-44dc-95b1-12d64b97f911",
+        "attribute": "minecraft:generic.armor",
+        "amount": 0.5,
+        "operation": "add_multiplied_base",
+        "slot": "mainhand"
+      },
+      {
+        "id": "e1ab8c37-7f10-44dc-95b1-12d64b97f911",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.25,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "e1ab8c37-7f10-44dc-95b1-12d64b97f911",
+        "attribute": "minecraft:generic.step_height",
+        "amount": 1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

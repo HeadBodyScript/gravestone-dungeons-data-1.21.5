@@ -1,0 +1,57 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Legendary",
+        "color": "gold",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "ba50e8cc-5ba5-462e-9cd5-b216b02e7158",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.02,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba50e8cc-5ba5-462e-9cd5-b216b02e7158",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.25,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba50e8cc-5ba5-462e-9cd5-b216b02e7158",
+        "attribute": "minecraft:generic.attack_damage",
+        "amount": 12,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba50e8cc-5ba5-462e-9cd5-b216b02e7158",
+        "attribute": "minecraft:generic.attack_knockback",
+        "amount": 1,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "e8e66d24-7323-4869-9a33-c71ee74ec644",
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": -3.4,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

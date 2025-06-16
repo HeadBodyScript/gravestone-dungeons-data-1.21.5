@@ -1,0 +1,13 @@
+execute store result score @s randomNumber run random value 1..12
+execute if score @s randomNumber matches 1 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : There is no place to hide from me little mouse!"}] 
+execute if score @s randomNumber matches 2 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Yei, jump and dodge. JUMP AND DODGE!"}]
+execute if score @s randomNumber matches 3 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Silly little thing. You stand no chance against me!"}]
+execute if score @s randomNumber matches 4 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Getting tired? Take a break. HA HA HA HA"}]
+execute if score @s randomNumber matches 5 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Burn him! Burn him to the bone!"}]
+execute if score @s randomNumber matches 6 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : I'm sure you're wishing you could fly right now...how silly."}]
+execute if score @s randomNumber matches 7 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Do you already regret your decision to face me?"}]
+execute if score @s randomNumber matches 8 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : You fight well... but it won’t save you!"}]
+execute if score @s randomNumber matches 9 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Behold the power of the Abyss!"}]
+execute if score @s randomNumber matches 10 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : Cower before my flames of vengeance!"}]
+execute if score @s randomNumber matches 11 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : You may weaken me, but I will never be defeated!"}]
+execute if score @s randomNumber matches 12 as @s run tellraw @a[tag=fighting.devil] ["",{"text":"Blazing Devil","color":"gold"},{"text":" : The fire consumes all! You will be no different!"}]

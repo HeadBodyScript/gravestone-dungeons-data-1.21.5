@@ -1,0 +1,12 @@
+give @s minecraft:arrow[minecraft:custom_data={arrow.cursed:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.bonfire:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.ender:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.fire:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.lightning:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.frostbite:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.hypnotizing:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.transforming:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.weaving:true}]
+give @s minecraft:arrow[minecraft:custom_data={arrow.shockwave:true}]
+
+give @s minecraft:arrow[minecraft:custom_data={arrow:true,arrow.damage:5}]

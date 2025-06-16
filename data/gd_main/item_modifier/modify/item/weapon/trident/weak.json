@@ -1,0 +1,50 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Weak",
+        "color": "#888888",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "7d567470-480a-43a1-940a-78060474390f",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.005,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "7d567470-480a-43a1-940a-78060474390f",
+        "attribute": "minecraft:generic.attack_damage",
+        "amount": 8,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "7d567470-480a-43a1-940a-78060474390f",
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": -3,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "7d567470-480a-43a1-940a-78060474390f",
+        "attribute": "minecraft:generic.water_movement_efficiency",
+        "amount": -0.25,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

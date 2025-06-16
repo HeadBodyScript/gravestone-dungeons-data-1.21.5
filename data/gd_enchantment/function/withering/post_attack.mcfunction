@@ -1,7 +1,7 @@
-scoreboard players add @s enchantment.withering_INT 1
-execute as @s[tag=boss,scores={enchantment.withering_INT=6..}] run function gd_enchantment:withering/success
-execute as @s[type=!player,tag=!boss,scores={enchantment.withering_INT=3..}] run function gd_enchantment:withering/success
-execute as @s[type=player,scores={enchantment.withering_INT=6..}] run function gd_enchantment:withering/success
+scoreboard players add @s enchantment.withering.count 1
+execute as @s[tag=boss,scores={enchantment.withering.count=6..}] run function gd_enchantment:withering/success
+execute as @s[type=!player,tag=!boss,scores={enchantment.withering.count=3..}] run function gd_enchantment:withering/success
+execute as @s[type=player,scores={enchantment.withering.count=6..}] run function gd_enchantment:withering/success
 
 execute if score @p oil_wither matches ..100 run effect give @s minecraft:wither 3 1 false
 execute if score @p oil_wither matches 101..250 run effect give @s minecraft:wither 6 1 false

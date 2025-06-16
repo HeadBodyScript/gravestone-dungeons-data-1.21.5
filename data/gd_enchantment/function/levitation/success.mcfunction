@@ -1,5 +1,5 @@
-scoreboard players set @s enchantment.levitation_INT 0
-scoreboard players set @s enchantment.levitation_CD 40
+scoreboard players set @s enchantment.levitation.count 0
+scoreboard players set @s enchantment.levitation.cooldown 40
 scoreboard players remove @s mana 400
 particle minecraft:poof ~ ~-0.2 ~ .1 .5 .1 0.01 10
 playsound minecraft:entity.evoker.prepare_summon block @a[distance=..10] ~ ~ ~ 2 0.5

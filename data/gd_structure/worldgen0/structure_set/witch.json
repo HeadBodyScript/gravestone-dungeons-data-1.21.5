@@ -1,0 +1,15 @@
+{
+  
+  "structures": [
+    {
+      "structure": "gd_structure:witch",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 20,
+    "salt": 114273754
+  }
+}

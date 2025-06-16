@@ -29,7 +29,7 @@
     "function": "minecraft:set_custom_data",
         "tag": {
       "modified": true,
-      "enchantment": true,
+      "enchantment_active": true,
       "gd_enchantment": "chorus_void"
     }
   }

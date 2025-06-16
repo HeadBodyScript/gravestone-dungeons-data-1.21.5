@@ -1,0 +1,37 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Mastercrafted",
+        "color": "gold",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "9782b960-2789-4bb1-9a20-00cb38d5b45e",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": 0.015,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "9782b960-2789-4bb1-9a20-00cb38d5b45e",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.2,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

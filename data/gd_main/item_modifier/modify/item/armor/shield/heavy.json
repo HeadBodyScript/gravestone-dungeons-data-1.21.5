@@ -1,0 +1,43 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Heavy",
+        "color": "#33ccff",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "e6b4d9d6-e74e-4c79-a133-149f750946a2",
+        "attribute": "minecraft:generic.armor",
+        "amount": 6,
+        "operation": "add_value",
+        "slot": "hand"
+      },
+      {
+        "id": "e6b4d9d6-e74e-4c79-a133-149f750946a2",
+        "attribute": "minecraft:generic.movement_speed",
+        "amount": -0.01,
+        "operation": "add_value",
+        "slot": "hand"
+      },
+      {
+        "id": "e6b4d9d6-e74e-4c79-a133-149f750946a2",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": -0.1,
+        "operation": "add_value",
+        "slot": "hand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

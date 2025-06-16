@@ -1,0 +1,674 @@
+{
+  "name": "gd_structure:maze",
+  "fallback": "gd_structure:maze",
+  "elements": [
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze1",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze2",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze3",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze4",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze5",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze6",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze7",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze8",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze9",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze10",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze11",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze12",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze13",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze14",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze15",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze16",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze17",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze18",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze19",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze20",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze21",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze22",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze23",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze24",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze25",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze26",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze27",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze28",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze29",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze30",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze31",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze32",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze33",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze34",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze35",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze36",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze37",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze38",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze39",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze40",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze41",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze42",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze43",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze44",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze45",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze46",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze47",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze48",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze49",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze50",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze51",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze52",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze53",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze54",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze55",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze56",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze57",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze58",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze59",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze60",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze61",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze62",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/maze63",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/spawner1",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/spawner2",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/spawner3",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 100,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:maze/spawner4",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest1",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest2",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest3",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest4",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest5",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest6",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest7",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest8",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest9",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest10",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest11",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest12",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest13",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest14",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest15",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "gd_structure:catacombs/chest16",
+        "projection": "rigid",
+        "processors": "gd_structure:maze"
+      }
+    }
+
+
+
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Flimsy",
+        "color": "#669900",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "2f763df8-22ed-42aa-ae3a-c3edfd985ea5",
+        "attribute": "minecraft:generic.jump_strength",
+        "amount": 0.1,
+        "operation": "add_value",
+        "slot": "hand"
+      },
+      {
+        "id": "2f763df8-22ed-42aa-ae3a-c3edfd985ea5",
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "amount": 3,
+        "operation": "add_value",
+        "slot": "hand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]

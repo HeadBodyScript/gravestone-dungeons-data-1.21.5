@@ -1,0 +1,50 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Reinforced",
+        "color": "#9900ff",
+        "italic": false
+      }
+    ],
+    "mode": "insert"
+  },
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "ba4aa2a6-130e-4f39-b784-d1f606c235dc",
+        "attribute": "minecraft:player.sneaking_speed",
+        "amount": 0.2,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba4aa2a6-130e-4f39-b784-d1f606c235dc",
+        "attribute": "minecraft:generic.attack_damage",
+        "amount": 6.5,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba4aa2a6-130e-4f39-b784-d1f606c235dc",
+        "attribute": "minecraft:generic.attack_speed",
+        "amount": -3,
+        "operation": "add_value",
+        "slot": "mainhand"
+      },
+      {
+        "id": "ba4aa2a6-130e-4f39-b784-d1f606c235dc",
+        "attribute": "minecraft:player.block.counteraction_range",
+        "amount": 2,
+        "operation": "add_value",
+        "slot": "mainhand"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_custom_data",
+    "tag": "{modified:1b}"
+  }
+]
